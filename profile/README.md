@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  We build tools for research, writing, and everyday work, after work and on weekends.<br>
-  我们利用下班后和周末，做科研、写作和日常工作中真正用得上的工具。
+  PTJ started as <i>Part-Time Job</i>: independent tools for research, writing, and everyday work,<br>
+  built after work and on weekends.
 </p>
 
 <br>
@@ -17,10 +17,10 @@
 </a>
 
 <p>
-  <a href="https://github.com/ptjworks/NebulaLab-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/ptjworks/NebulaLab-Releases?label=Download&style=flat-square&color=05b273" alt="Download Nebula Lab"></a>
-  <a href="https://nebulalab.app/"><img src="https://img.shields.io/badge/Docs-nebulalab.app-18215c?style=flat-square" alt="Documentation"></a>
-  <a href="https://github.com/ptjworks/NebulaLab-Plugins"><img src="https://img.shields.io/badge/Plugins-registry-18215c?style=flat-square" alt="Plugin registry"></a>
-  <a href="https://github.com/ptjworks/NebulaLab-Classic"><img src="https://img.shields.io/badge/Classic-open%20source-18215c?style=flat-square" alt="Nebula Lab Classic"></a>
+  <a href="https://github.com/ptjworks/NebulaLab-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/ptjworks/NebulaLab-Releases?label=Download&style=flat-square&color=d86244" alt="Download Nebula Lab"></a>
+  <a href="https://nebulalab.app/"><img src="https://img.shields.io/badge/Docs-nebulalab.app-24292f?style=flat-square" alt="Documentation"></a>
+  <a href="https://github.com/ptjworks/NebulaLab-Plugins"><img src="https://img.shields.io/badge/Plugins-registry-24292f?style=flat-square" alt="Plugin registry"></a>
+  <a href="https://github.com/ptjworks/NebulaLab-Classic"><img src="https://img.shields.io/badge/Classic-open%20source-24292f?style=flat-square" alt="Nebula Lab Classic"></a>
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 <a href="https://github.com/ptjworks/resume-form-assistant-plugin">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/card-wangshen-kuaitian-dark.svg">
-    <img src="./assets/card-wangshen-kuaitian-light.svg" alt="网申快填: fill job applications faster, and keep track of every one" width="100%">
+    <img src="./assets/card-wangshen-kuaitian-light.svg" alt="Wangshen Kuaitian: fill job applications faster, and keep track of every one" width="100%">
   </picture>
 </a>
 
@@ -41,5 +41,5 @@
 <br>
 
 <p align="center">
-  <sub>Questions or ideas? Open an issue in the project's repository. · 有问题或想法，欢迎到对应项目提 issue。</sub>
+  <sub>Questions or ideas? Open an issue in the project's repository.</sub>
 </p>
