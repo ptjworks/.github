@@ -27,13 +27,13 @@
 <a href="https://github.com/ptjworks/resume-form-assistant-plugin">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/card-wangshen-kuaitian-dark.svg">
-    <img src="./assets/card-wangshen-kuaitian-light.svg" alt="Wangshen Kuaitian: fill job applications faster, and keep track of every one" width="100%">
+    <img src="./assets/card-wangshen-kuaitian-light.svg" alt="网申快填：本地优先的求职助手" width="100%">
   </picture>
 </a>
 
 <p>
-  <a href="https://chromewebstore.google.com/detail/diagjmploldedipjdenmecmjokckelkl"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-install-398f86?style=flat-square&logo=googlechrome&logoColor=white" alt="Install from the Chrome Web Store"></a>
-  <a href="https://19991107.xyz/tools/wangshen-kuaitian/download/"><img src="https://img.shields.io/badge/Desktop-Windows%20%7C%20macOS-202b3a?style=flat-square" alt="Download the desktop app"></a>
+  <a href="https://chromewebstore.google.com/detail/diagjmploldedipjdenmecmjokckelkl"><img src="https://img.shields.io/badge/Chrome%20%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-%E5%AE%89%E8%A3%85%E6%89%A9%E5%B1%95-398f86?style=flat-square&logo=googlechrome&logoColor=white" alt="从 Chrome 应用商店安装扩展"></a>
+  <a href="https://19991107.xyz/tools/wangshen-kuaitian/download/"><img src="https://img.shields.io/badge/%E6%A1%8C%E9%9D%A2%E7%AB%AF-Windows%20%7C%20macOS-202b3a?style=flat-square" alt="下载桌面端"></a>
   <a href="https://github.com/ptjworks/resume-form-assistant-plugin"><img src="https://img.shields.io/github/stars/ptjworks/resume-form-assistant-plugin?style=flat-square&color=202b3a" alt="GitHub stars"></a>
 </p>
 
