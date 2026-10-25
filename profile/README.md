@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  PTJ started as <i>Part-Time Job</i>: independent tools for research, writing, and everyday work,<br>
-  built after work and on weekends.
+  PTJ started as <i>Part-Time Job</i>: software we build after work and on weekends.
 </p>
 
 <br>
